@@ -32,8 +32,8 @@ reverse-proxy-full/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/reverse-proxy-full.git
-cd reverse-proxy-full
+git clone https://github.com/your-username/docker-basic.git
+cd docker-basic
 ```
 
 ---
